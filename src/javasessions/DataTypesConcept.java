@@ -9,7 +9,7 @@ public class DataTypesConcept {
 		
 		String s = new String("test");
 		System.out.println(s);
-		
+		System.out.println("Welcome to java ");
 
 		
 	}
